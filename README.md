@@ -11,6 +11,6 @@ Do tworzenia projektu wykorzystamy metodologię Agile.
 ## Harmonogram
 
 - [x] 1 tydzień - Zaplanowanie funkcjonalności 
-- [ ] 2 tydzień - stworzenie menu, poziomu i dodanie odpowiednich funkcjonalności, postaci i jej ruchu
+- [x] 2 tydzień - stworzenie menu, poziomu i dodanie odpowiednich funkcjonalności, postaci i jej ruchu
 - [ ] 3 tydzień - dodanie znajdziek, systemu punktów
 - [ ] 4 tydzień - testowanie i poprawianie błędów
