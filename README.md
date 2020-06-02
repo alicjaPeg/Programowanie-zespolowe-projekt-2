@@ -12,5 +12,5 @@ Do tworzenia projektu wykorzystamy metodologię Agile.
 
 - [x] 1 tydzień - Zaplanowanie funkcjonalności 
 - [x] 2 tydzień - stworzenie menu, poziomu i dodanie odpowiednich funkcjonalności, postaci i jej ruchu
-- [ ] 3 tydzień - dodanie znajdziek, systemu punktów
-- [ ] 4 tydzień - testowanie i poprawianie błędów
+- [x] 3 tydzień - dodanie znajdziek, systemu punktów
+- [x] 4 tydzień - testowanie i poprawianie błędów
